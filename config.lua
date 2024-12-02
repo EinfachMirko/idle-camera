@@ -1,9 +1,9 @@
 Config = {}
 Config.EnableFade = true -- Enable black fade transition after camera ends
 Config.CameraDuration = 10000 -- how many seconds the view will be seen after each transition
-Config.EnableMusic = true -- Enable Music, put a MusicFile aswell under webview/dist/assets/
+Config.EnableMusic = true -- Enable Music, put a MusicFile aswell under webfiles/sounds
 Config.RandomizedPositions = true -- enable to randomize all cameras
-Config.EnableWarningLights = true -- enables blinking warning lights on vehicles when camera is enabled
+Config.EnableWarningLights = true -- currently no use
 Config.EnableHeadLights = true -- currently no use
 Config.EnableHeadLightsOnlyNights = true -- currently no use
 
