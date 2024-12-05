@@ -1,6 +1,6 @@
-# Idle-Camera Script v1.0
+# Idle-Camera Script
 
-Enhance your server’s experience today with Idle-Camera Script v1.0! :movie_camera:
+Enhance your server’s experience today with Idle-Camera Script :movie_camera:
 Let your players idle in style.
 
 ---
